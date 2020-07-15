@@ -1,4 +1,4 @@
-# WhichUCSchoolSparkAR [Version 1.0.0]
+# Which UC School Spark AR Filter [Version 1.0.1]
 Spark AR Filter on Instagram for UC Schools
 
 ## Pre-requisite
